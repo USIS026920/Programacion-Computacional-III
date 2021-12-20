@@ -2,4 +2,4 @@
 # Generalidades: 
 | Integrante   | Código | 
 | ------------- | -------------| 
-| Belen Abigail Carranza Robles | USIS026920 |
+| Belén Abigail Carranza Robles | USIS026920 |
